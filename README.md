@@ -4,7 +4,7 @@
 
 
 
-Este projeto foi desenvolvido para o desafio de Front End da ClientBase, e foram utilizados **NextJS** com **TypeScript**, e **MaterialUI** para o desenvolvimento. Os dados dos personagens são consumidos da API SWApi, e o deploy da aplicação foi feito na **Vercel**.
+Este projeto foi desenvolvido para o desafio de uma vaga, e foram utilizados **NextJS** com **TypeScript**, e **MaterialUI** para o desenvolvimento. Os dados dos personagens são consumidos da API SWApi, e o deploy da aplicação foi feito na **Vercel**.
 
 Clique [aqui](https://frontend-test-gold.vercel.app/) para acessar a aplicação.
 

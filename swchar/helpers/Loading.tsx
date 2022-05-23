@@ -10,7 +10,7 @@ interface Props {
 const Loading = ({ width, height }: Props) => {
   return (
     <Box>
-      <Bars width={width} height={height} color="#DAAF3B" />;
+      <Bars width={width} height={height} color="#DAAF3B" />
     </Box>
   );
 };
